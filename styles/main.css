@@ -1,0 +1,20 @@
+header {
+	font-size: 80px;
+	text-transform: uppercase;
+}
+img {
+	max-width: 100%;
+}
+.content {
+	column-count: 3;
+}
+.head {
+	text-align: center;
+	position: relative;
+}
+.subhead {
+	border-bottom: 2px solid #000;
+	border-top: 2px solid #000;
+	padding: 12px 0 12px 0;
+	text-transform: uppercase;
+}
